@@ -19,6 +19,8 @@ ionic build --prod
 ionic serve
 ### https://www.npmjs.com/package/local-web-server
 
+### npx ngsw-config www src/ngsw-config.json
+
 ## Hybrid App
 
 ## Native App
