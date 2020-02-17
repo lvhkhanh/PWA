@@ -21,6 +21,9 @@ ionic serve
 
 ### npx ngsw-config www src/ngsw-config.json
 
+
+### Code Fragments
+
 ## Hybrid App
 
 ## Native App
