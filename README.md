@@ -14,6 +14,10 @@
 
 ### Ionic
 
+ionic build --prod
+
+ionic serve
+
 ## Hybrid App
 
 ## Native App
