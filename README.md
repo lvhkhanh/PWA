@@ -1,5 +1,6 @@
 # PWA
 ## Courses
+### https://app.pluralsight.com/library/courses/designing-progressive-web-apps/table-of-contents
 ### https://app.pluralsight.com/library/courses/debugging-progressive-web-apps/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/workbox-lab/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/workbox-indexeddb/index.html?index=..%2F..index
